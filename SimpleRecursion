@@ -1,0 +1,22 @@
+package recursion;
+
+public class SimpleRecursion {
+    
+    /**
+     * Created by Kenaan Kalra
+     * 
+     * Recursion in the simplest terms is when a function calls itself within its body. A Recursion statement MUST
+     * also have an exit case, which the function below does not. Let's see what this results in
+     */
+    
+    public static void main(String[] args) {
+        neverEnd();
+    }
+    
+    //simplest example of recursion(albeit a bad one)
+    private static void neverEnd() {
+        System.out.println("Hi");
+        neverEnd();
+    }
+    
+}
