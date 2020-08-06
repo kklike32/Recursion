@@ -13,6 +13,7 @@ If the user does not input data correctly, the function can be run again until i
 Recursive functions can also be used in place of nested for-loops to track any variable count.
 
 ## Clone our Repo
+Inside the folder Recursion Practices, there are multiple exercises that you can complete to gain experience in tracing recursive functions. 
 If you want to mess around with our code, simply clone this repo using the link below.
 
 https://github.com/kklike32/Recursion.git
